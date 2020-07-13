@@ -92,7 +92,7 @@
 </div>  
 </nav>
 
-<div class="col-12 col-md-8 col-lg-10 text-dark pt-4" align="justify" style="min-height:650px; background-color: #ffff33;">
+<div class="col-12 col-md-8 col-lg-10 text-dark pt-4" align="justify" style="min-height:650px; background-color: #b3ecff;">
 
 	<h2 align="center" style="margin-top: 50px;">Login In Here</h2>
 	<form action="proseslogin.php" method="post"  style="padding-right: 100px; padding-left: 100px; margin-left: 50px; margin-right: 50px;">
@@ -117,7 +117,7 @@
 		<img src="asset/images/twitter_icon.png" href="#" width="40">
 	</div>
 </div>
-<div class="col-12 bg-info text-light" align="center">Copyright @Ryanaldi 2020</div>
+<div class="col-12 text-light" align="center" style="background-color: #33ccff;">Copyright @Ryanaldi 2020</div>
 </div>
 </div>
 
